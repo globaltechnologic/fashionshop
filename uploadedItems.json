@@ -1,0 +1,59 @@
+[ 
+  //"fashionshop" theme for version 3.70
+  {
+    "Type": "Theme",
+    "SupportedVersion": "3.80",
+    "DirectoryPath": "fashionshop/nopCommerce3.70/fashionshop/"
+  },
+  //"fashionshop" theme for version 3.80
+  {
+    "Type": "Theme",
+    "SupportedVersion": "3.80",
+    "DirectoryPath": "fashionshop/nopCommerce3.80/fashionshop/"
+  },
+  //"fashionshop" theme for version 3.90
+  {
+    "Type": "Theme",
+    "SupportedVersion": "3.90",
+    "DirectoryPath": "fashionshop/nopCommerce3.90/fashionshop/"
+  },
+  //"fashionshop" theme for version 4.00
+  {
+    "Type": "Theme",
+    "SupportedVersion": "4.00",
+    "DirectoryPath": "fashionshop/nopCommerce4.00/fashionshop/"
+  },  
+  //"Manufacturers" plugin for version 4.00
+  {   
+    "Type": "Plugin",    
+    "SupportedVersion": "4.00",   
+    "DirectoryPath": "fashionshop/nopCommerce4.00/plugins/Misc.ManufacturersOnHome/",
+    "SystemName": "Misc.ManufacturersOnHome"
+  },
+  //"fashionshop" theme for version 4.10
+  {
+    "Type": "Theme",
+    "SupportedVersion": "4.10",
+    "DirectoryPath": "fashionshop/nopCommerce4.10/fashionshop/"
+  },  
+  //"Manufacturers" plugin for version 4.10
+  {   
+    "Type": "Plugin",    
+    "SupportedVersion": "4.10",   
+    "DirectoryPath": "fashionshop/nopCommerce4.10/plugins/Misc.ManufacturersOnHome/",
+    "SystemName": "Misc.ManufacturersOnHome"
+  },
+  //"fashionshop" theme for version 4.20
+  {
+    "Type": "Theme",
+    "SupportedVersion": "4.20",
+    "DirectoryPath": "fashionshop/nopCommerce4.20/fashionshop/"
+  },  
+  //"Manufacturers" plugin for version 4.20
+  {   
+    "Type": "Plugin",    
+    "SupportedVersion": "4.20",   
+    "DirectoryPath": "fashionshop/nopCommerce4.20/plugins/Misc.ManufacturersOnHome/",
+    "SystemName": "Misc.ManufacturersOnHome"
+  }
+]
